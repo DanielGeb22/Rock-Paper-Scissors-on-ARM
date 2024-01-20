@@ -28,7 +28,7 @@ To detect what choice the player made all depended on the flex sensor being bent
 
 ## Experimental Data
  
-| ![image](https://github.com/DanielGeb22/Rock-Paper-Scissors-on-ARM/assets/21247188/0190a6c7-27cd-4dbd-a279-b300b0e7001e)  |  ![image](https://github.com/DanielGeb22/Rock-Paper-Scissors-on-ARM/assets/21247188/1303c6c0-6e82-49f7-a1af-f94e940a232c) |
+| ![image](https://github.com/DanielGeb22/Rock-Paper-Scissors-on-ARM/assets/21247188/0190a6c7-27cd-4dbd-a279-b300b0e7001e)  The first round starts. | ![image](https://github.com/DanielGeb22/Rock-Paper-Scissors-on-ARM/assets/21247188/1303c6c0-6e82-49f7-a1af-f94e940a232c) Player 1 wins the first round and gets a point. Moves onto round 2. |
 :-------------------------:|:-------------------------:
 ![image](https://github.com/DanielGeb22/Rock-Paper-Scissors-on-ARM/assets/21247188/cf9b9010-8cca-400f-800a-3338f4b7a19a)  |  ![image](https://github.com/DanielGeb22/Rock-Paper-Scissors-on-ARM/assets/21247188/1867ccd7-97d8-4d08-a83c-b408d7fca85d) |
 ![image](https://github.com/DanielGeb22/Rock-Paper-Scissors-on-ARM/assets/21247188/256f4707-b3b0-4f39-a71c-9e11a7bfa44d)  |  ![image](https://github.com/DanielGeb22/Rock-Paper-Scissors-on-ARM/assets/21247188/f5a8bf44-54ed-443d-a6d6-45e0269ccb00) |
