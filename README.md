@@ -36,5 +36,5 @@ To detect what choice the player made all depended on the flex sensor being bent
 ## References
 [1] Last Minute Engineers, “In-depth: Interfacing flex sensor with Arduino,” Last Minute Engineers, https://lastminuteengineers.com/flex-sensor-arduino-tutorial/  
 [2] A. Ijaz and Instructables, “Traffic Light Controller using ARM cortex-M4,” Instructables, https://www.instructables.com/Traffic-Light-Controller-Using-ARM-Cortex-M4/  
-[3] “Seven-segment display,” Wikipedia, https://en.wikipedia.org/wiki/Seven-segment_display/
+[3] “Seven-segment display,” Wikipedia, https://en.wikipedia.org/wiki/Seven-segment_display/                                    
 [4] “ZD10-100 Flex Sensor”, Amazon, https://www.amazon.com/dp/B08XWKPPHS/
