@@ -32,3 +32,9 @@ To detect what choice the player made all depended on the flex sensor being bent
 :-------------------------:|:-------------------------:
 ![image](https://github.com/DanielGeb22/Rock-Paper-Scissors-on-ARM/assets/21247188/cf9b9010-8cca-400f-800a-3338f4b7a19a) Player 2 wins the round and ties up the game. Beginning of round 3  |  ![image](https://github.com/DanielGeb22/Rock-Paper-Scissors-on-ARM/assets/21247188/1867ccd7-97d8-4d08-a83c-b408d7fca85d) Both players tie so no points and round 4 begins. |
 ![image](https://github.com/DanielGeb22/Rock-Paper-Scissors-on-ARM/assets/21247188/256f4707-b3b0-4f39-a71c-9e11a7bfa44d) Player 2 wins round 5.  |  ![image](https://github.com/DanielGeb22/Rock-Paper-Scissors-on-ARM/assets/21247188/f5a8bf44-54ed-443d-a6d6-45e0269ccb00) Since player 2 beat player 1 (2-1), the 7-segment displays show player 2 wins. |
+
+## References
+[1] Last Minute Engineers, “In-depth: Interfacing flex sensor with Arduino,” Last Minute Engineers, https://lastminuteengineers.com/flex-sensor-arduino-tutorial/  
+[2] A. Ijaz and Instructables, “Traffic Light Controller using ARM cortex-M4,” Instructables, https://www.instructables.com/Traffic-Light-Controller-Using-ARM-Cortex-M4/  
+[3] “Seven-segment display,” Wikipedia, https://en.wikipedia.org/wiki/Seven-segment_display\
+[4] “ZD10-100 Flex Sensor”, Amazon, https://www.amazon.com/dp/B08XWKPPHS
